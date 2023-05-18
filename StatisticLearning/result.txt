@@ -1,0 +1,2 @@
+Table 2 provide some information about the classifier and explainer performance. Interestingly regarding -std as 
+the IMP score can get comparable performance except classifier 1/3/5 (and 6). 

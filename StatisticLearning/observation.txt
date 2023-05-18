@@ -1,0 +1,9 @@
+\href{https://arxiv.org/abs/1910.12336}{CXPlain}, an explanation method with uncertainty, 
+inspires us to test the explantion variation of current methods. 
+There is a natural assumption: whether the more important nodes have lower std value. 
+  \par  
+We observe that for signal nodes, the importance scores' variation is perfectly decreasing with the importance scores' magnitude.
+For background nodes, the correlation varies a lot across different classifiers. 
+  \par 
+Another observation is that if auc performance is relatively high (>90), then use negative importance scores' std value's 
+can get comparable performance. 
